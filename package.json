@@ -1,6 +1,6 @@
 {
   "name": "dsh-windows-tool-fix",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Make the Windows Git Bash agent preset the automatic DSH default without modifying shipped files.",
   "private": false,
   "type": "module",
@@ -18,5 +18,5 @@
   "engines": {
     "node": ">=20"
   },
-  "license": "MIT"
+  "license": "LGPL-2.1-or-later"
 }
