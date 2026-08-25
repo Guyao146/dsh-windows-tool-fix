@@ -1,0 +1,7 @@
+- insert:
+    - id: dsh-windows-tool-fix
+      name: dsh-windows-tool-fix
+
+- id: agent-presets
+  config:
+    default: minimal-gitbash
