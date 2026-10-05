@@ -169,8 +169,16 @@ agent-presets:
 
 ## 许可证
 
-本项目使用 **GNU Lesser General Public License, Version 2.1 or later（LGPL-2.1-or-later）**，完整文本见
-仓库根目录的 [`LICENSE`](./LICENSE) 文件。
+本项目采用 **Sakura-License v1.2**（固定文本标识 `Sakura-License-1.2`）。完整正文见 [LICENSE](./LICENSE)，
+采用声明（项目、许可人、适用范围与首次适用提交）见 [NOTICE.md](./NOTICE.md)。
+
+- 它是**源码可用（source-available）**许可证，限制特定商业利用，不是 OSI 批准的开源许可证；
+- 阅读、运行、复制、修改、分发与自部署免许可费；但**面向第三方的商业利用（销售、订阅、付费 SaaS、收费托管 / 部署 / 定制 / 支持等）须先取得书面商业授权**；
+- 对外分发或提供受覆盖作品时，须保留署名、许可证与来源信息，并**同步公开对应源码**；
+- 通过公开 API / HTTP 等协议独立调用本项目的运行实例，不因此构成商用或触发共享义务；
+- 历史授权保留：在此前 LGPL-2.1-or-later 下取得副本者，可继续按该许可使用（见 [NOTICE.md](./NOTICE.md)）。
+
+商用授权请在 [Issues](https://github.com/Guyao146/dsh-windows-tool-fix/issues) 发起申请（请勿在公开 Issue 中提交敏感资料）。
 
 `@icelily/dsh-gitbash-preset` 及其依赖包遵循各自的许可证。
 
@@ -180,3 +188,7 @@ DSH Windows Tool Fix：为 Windows 上的 DSH Desktop 提供不修改官方安�
 Git Bash preset 配置修复。
 
 GitHub：<https://github.com/Guyao146/dsh-windows-tool-fix>
+
+## v0.2.2 发布
+
+本版本统一采用 Sakura-License v1.2，随发布包提供 LICENSE 与 NOTICE.md；历史和第三方授权保持不变。功能行为不变。
