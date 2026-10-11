@@ -1,5 +1,8 @@
 # dsh-windows-tool-fix
 
+[![樱落生态成员](https://raw.githubusercontent.com/Guyao146/Sakura-EcoSystem-wiki/main/assets/ConnectEcoSystem.svg)](https://mcylyr.cn)
+[![已编写Wiki](https://raw.githubusercontent.com/Guyao146/Sakura-EcoSystem-wiki/main/assets/sakura-wiki.svg)](https://wiki.mcylyr.cn/)
+
 `dsh-windows-tool-fix` 是一个面向 DeepSeek Harness（DSH）Desktop 的 Windows 配置插件。
 它针对 Windows 上 DSH 默认 `minimal` Agent preset 使用持久 PTY 时出现的错误：
 
